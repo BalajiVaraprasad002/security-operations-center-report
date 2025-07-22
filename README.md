@@ -11,7 +11,7 @@ This repository contains a research report on the role and structure of a **Secu
 - Common SOC Use Cases (e.g., Insider Threats, Malware Detection)
 - SOC Tools and Frameworks (MITRE ATT&CK, Splunk, Wazuh)
 
-📄 [Download Full Report](soc-report.pdf)
+📄 [Download Full Report](Soc-report.pdf)
 
 ---
 
